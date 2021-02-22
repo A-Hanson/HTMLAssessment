@@ -63,7 +63,7 @@ ol > li:first-child {
   z-index: -1;
 }
 #teamRoster > li > img, br {
-  visibility: hidden;
+  display: none;
 }
 #checkbox-grid > li {
   list-style: none;
